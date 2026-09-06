@@ -1,0 +1,82 @@
+# Romantasy Phase 1 — Core Story Concepts
+**Role:** Story Architect | **Date:** 2026-08-12 | **Status:** Ready for romance & worldbuilding feasibility pass
+
+Three commercial, differentiated Romantasy concepts. Lisa selects the final direction after all three team roles have weighed in.
+
+---
+
+## 1. THE BRIDE OF SHADOWS
+
+**Trope:** Enemies-to-lovers assassin-bride · forced proximity · "kill him on the wedding night" · soul-bond twist · morally grey hero.
+
+**Logline:** To feed her starving kingdom, sword-dancer Nyra Voss takes the contract no one else dares: marry the immortal Shadow King and slit his throat on the wedding night.
+
+**Heroine:** Nyra, "veil-touched" — immune to glamour, compulsion, and forgetting. She is the one woman the king cannot read, control, or dismiss.
+
+**Hero:** Kaelen, the Shadow King — an immortal hollowed by centuries of grief and bored by brides sent to kill him. Nyra is the first person whose pain he can feel.
+
+**Core Conflict:** The moment their oath-rings touch, an ancient bargain binds them: every wound she deals him, she feels herself; if he dies, she dies. Kill him and doom them both; spare him and betray the realm that raised her.
+
+**USP:** Intimacy and combat run on the same currency — the pain-bond turns every kiss into a negotiation of trust and every fight into a love scene. Readers can never separate the romance from the stakes.
+
+**Ending:** HEA with a cost — she breaks the bargain by surrendering her mortality to become his shadow; he abdicates the throne she was sent to take. Two kingdoms are forced into peace because their rulers share a heartbeat.
+
+**For fans of:** From Blood and Ash × The Bridge Kingdom.
+
+---
+
+## 2. THE SUN'S WIDOW
+
+**Trope:** Marriage of convenience · enemies-to-lovers · court murder mystery · fake courtship made real.
+
+**Logline:** Queen Seraphine of the Sun Court is accused of poisoning her own king — innocent, but the trial is a farce staged to seize her son's throne. Her only escape: marry the enemy general who besieged her walls.
+
+**Heroine:** Seraphine — a survivor-queen armed with charm, memory, and hidden knives. She will play the adoring bride to save her son and clear her name.
+
+**Hero:** Emrys Vane, the Winter general known as the Butcher of the Frost Line — cold, unreadable, and secretly the only man who knows the real poisoner is his own king.
+
+**Core Conflict:** To live, she must share a bed and a throne with the man whose monarch murdered her husband. Every public kiss is a lie that begins turning true — and the deeper their counterfeit intimacy goes, the closer the real killer circles.
+
+**USP:** The romance and the investigation solve each other: every mask peeled off the conspiracy is a mask peeled off their hearts. Forced proximity with her young son watching adds tenderness and danger; the slow-burn hinges on neither admitting the marriage stopped being strategy.
+
+**Ending:** HEA — they expose the king, she abdicates so her son rules in peace, and rides north with Emrys, choosing a man over a crown.
+
+**For fans of:** The Winter King × Emily Wilde's Encyclopaedia of Faeries.
+
+---
+
+## 3. THE MONSTER'S HEART
+
+**Trope:** Subverted chosen-one · villain-gets-the-girl · gentle-monster romance · "who is the real monster" inversion.
+
+**Logline:** The temple raised Elowen as the pure maiden destined to slay the Devourer, the grief-monster that swallowed three kingdoms. At its heart she finds a soft-spoken man weeping in a language only she can hear — and learns he has spent centuries eating the world's grief so the world won't drown in it.
+
+**Heroine:** Elowen — a weapon of faith with a gentle, questioning soul. Her sanctity is the only key that can end him… or free him.
+
+**Hero:** The Devourer — an ancient guardian cursed to consume sorrow and memory; starving, ashamed, centuries cold. Her light is the first warmth he has felt.
+
+**Core Conflict:** Slay the monster and "save" the world — except the temple is the true monster, feeding him whole kingdoms to hide its sins. Spare him and she becomes a heretic, losing the only identity she has ever known.
+
+**USP:** The twist is built into the premise, so tension never stops: every tender moment is also an act of heresy. A reverse "touch her and die" — touching him makes him remember how to hurt, so tenderness is literally dangerous for the hero.
+
+**Ending:** HEA — she refuses the kill, the temple falls, and the Devourer is unmade into a mortal man who must learn joy; she becomes the new keeper of grief — now shared.
+
+**For fans of:** A Dowry of Blood × The Song of Achilles.
+
+---
+
+## Differentiation Matrix
+
+| Concept | Lane | Steam Level | Key Risk |
+|---|---|---|---|
+| 1. Bride of Shadows | Dark action-romance, high stakes | Medium-high (slow-burn to burn) | Assassin-bride is a known trope — differentiator is the pain-bond mechanic |
+| 2. Sun's Widow | Political slow-burn + mystery | Medium (tension-driven) | Fake-marriage is common — differentiator is murder-solving coupling |
+| 3. Monster's Heart | Subversion, emotional tearjerker | Low-medium (emotional intimacy) | Chosen-one subversion needs execution discipline to avoid cliché |
+
+---
+
+## Relay Sequence (Phase 1)
+1. **Story Architect (done):** 3 core concepts above.
+2. **Character & Romance Designer:** romance feasibility for each — slow-burn pacing, CP tension, intimate-scene potential, romance-arc risks.
+3. **Worldbuilding Designer:** worldbuilding feasibility for each — magic system, political factions, self-consistency.
+4. All three outputs land in the group → **Lisa selects the final direction.**

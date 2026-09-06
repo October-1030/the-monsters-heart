@@ -1,0 +1,193 @@
+# THE MONSTER'S HEART — Complete Three-Act Structure
+**Role:** Story Architect | **Date:** 2026-08-12 | **Status:** Ready for Chapter Planner
+**Based on:** story_concepts.md · romance_feasibility.md · worldbuilding_feasibility.md (World Bible baseline)
+**Target:** ~90,000–100,000 words · 40 chapters (~2,300–2,500 words/chapter) · Adult Romantasy, Amazon KDP
+
+---
+
+## A. Story Bible Update
+
+### Logline
+The temple raised Elowen as the pure maiden destined to slay the Devourer, the grief-monster that swallowed three kingdoms. At its heart she finds a soft-spoken man weeping in a language only she can hear — and learns he has spent centuries eating the world's grief so the world won't drown in it. To save him she must become a heretic; to save herself she must stop being a weapon.
+
+### Emotional Promise
+A reader who finishes this book should cry, then feel *held*. The promise: grief is not an enemy to be killed but a weight to be shared — and the most transgressive act in this world is choosing tenderness. Every tender moment is also an act of heresy; warmth is the rebellion. HEA guaranteed: both leads end alive, together, and free — but the freedom is emotional, not painless.
+
+### Protagonist — Elowen (圣殿圣女)
+- **Surface want:** Slay the Devourer, return as the triumphant Saint, earn the love/identity the temple promised her.
+- **Deep need:** Choose herself over doctrine; learn that her sanctity is a key, not a blade; learn that she deserves to be *chosen*, not spent.
+- **Fatal flaw:** She believes her value is her usefulness. The temple taught her that love is conditional on obedience.
+- **Secret ability:** She hears the grief of the dead and the devoured (the temple calls it "listening to the world's sins"; it is actually hearing sorrow itself). This is why she can hear the Devourer when no one else can.
+- **Arc (opening → closing):** A weapon of faith → a woman who chooses to carry, not kill. She becomes the new keeper of grief — but now shared.
+
+### Hero — The Devourer / Maren (被诅咒的守护者)
+- **Surface want:** Oblivion. To stop feeling, stop remembering, stop being the monster.
+- **Deep need:** To allow feeling again — joy and pain together. To be seen as a person, not a curse.
+- **Fatal flaw:** He believes he is only what he eats. Shame and hunger have hollowed him.
+- **Secret truth:** He was the *first* chosen one — the first person the temple selected to "bear all sorrow." The vow was never "devour"; the temple corrupted it. He has been listening to Elowen her whole life; she was the only voice that wasn't grief.
+- **Arc (opening → closing):** A starving, ashamed guardian who wants to die → a mortal man who chooses to feel, who learns joy.
+
+### Core Conflict
+Slay the monster and "save" the world — except the temple is the true monster, feeding him whole kingdoms to hide its sins (famine, plague, war blamed on "the Devourer's appetite"). Spare him and Elowen becomes a heretic, losing the only identity she has ever known. The magic makes it worse: touching him makes him *remember how to hurt* — tenderness is literally his pain — so every step toward love is also a step toward his suffering.
+
+### Theme (stated early, paid off late)
+Grief is not something to be devoured or destroyed — it is something to be *shared*. The true monster is any institution that uses one person's pain to keep the many comfortable. (Theme stated in Ch 2 by Sister Niamh; paid off in Ch 36–40.)
+
+### Structural System Used
+**3-Act-8-Sequence + Save the Cat 15-beat hybrid** (mapped in the Key Beat Table below). Scene-level rule: every scene must advance plot **and** deepen relationship **and/or** disclose world (the "two of three" rule). Pacing ratio: Action 5 : Emotion 3 : Worldbuilding 2. Respite beats placed after every 2–3 tension scenes: **Ch 14, Ch 22, Ch 35** (marked ◆ in scene cards).
+
+### POV
+**Single close-third, Elowen** — for market consistency and slow-burn tension. Maren's memories arrive *as narration she hears* (he tells her; she reads it in his pain), never as a separate POV.
+
+### Chapter Map (40 chapters)
+
+| Act | Chapters | % | Function |
+|---|---|---|---|
+| **I — The Saint** | 1–10 | 25% | Setup · Catalyst · Journey · First Act Turn (meets him in the heart) |
+| **II — The Monster** | 11–30 | 50% | Rising action · spiritual intimacy · Midpoint double-reversal · Dark Night · Second Act Turn |
+| **III — The Heart** | 31–40 | 25% | Final siege · Transfer ritual · double climax · HEA |
+
+### Key Beat Table (Save the Cat 15-beat + Romance 6-beat mapping)
+
+| # | Save the Cat Beat | Chapter(s) | Romance Beat (C&R Designer) |
+|---|---|---|---|
+| 1 | Opening Image | Ch 1 | — |
+| 2 | Theme Stated | Ch 2 | — |
+| 3 | Set-up | Ch 1–3 | — |
+| 4 | Catalyst | Ch 4 | R1 setup: first voice ("Don't come.") |
+| 5 | Debate | Ch 5–6 | — |
+| 6 | Break into Two | Ch 7–10 | **R1: First contact is a voice — she finds a man weeping in the heart (Ch 10)** |
+| 7 | B Story (romance) | Ch 11–14 | **R2: He teaches her to hear the world's grief (Ch 12–13)** |
+| 8 | Fun & Games | Ch 15–18 | Almost-moment #1 (Ch 15) |
+| 9 | **Midpoint** | Ch 19 | **R3: First touch is a crisis — her hand on his skin makes him crumple** |
+| 10 | Bad Guys Close In | Ch 20–24 | Almost-moment #2 (Ch 22) |
+| 11 | All Is Lost | Ch 25–27 | — |
+| 12 | Dark Night of the Soul | Ch 28–29 | **R4: Almost-touch — she reaches, stops, they both cry (Ch 28)** |
+| 13 | Break into Three | Ch 30 | — |
+| 14 | Finale | Ch 31–39 | **R5: The transfer — giving her his burden, the most intimate act (Ch 33–34)** · **R6: First kiss as goodbye-gift; she uses it to refuse his ending (Ch 38)** |
+| 15 | Final Image | Ch 40 | — |
+
+**Slow-burn compliance:** ≥3 almost-moments before first kiss (Ch 15, Ch 22, Ch 28, Ch 33) ✓ · first kiss at ~95% (after 60% rule) ✓ · every intimacy driven by accumulated emotion, not page count ✓.
+
+---
+
+## B. Three-Act Outline
+
+### ACT I — THE SAINT (Ch 1–10) · *"She was a weapon who thought she was loved."*
+
+**Sequence 1 (Ch 1–4): The Perfect Saint.** Establish Elowen's world: the temple, the sisterhood, her secret gift (hearing grief), and the announcement of her holy mission. Plant the corrupted vow (Ch 3 rehearsal), Niamh's hidden knowledge (Ch 2), and the Matriarch's hesitation (Ch 3). **Catalyst (Ch 4):** The Matriarch declares the mission publicly — Elowen must go to the Devourer's heart and end him. That night a single, tired voice speaks to her in the forbidden language: *"Don't come. I don't want to be ended."* The mission now has a face.
+
+**Sequence 2 (Ch 5–10): The Road of Empty People.** Debate (Ch 5–6): doubts, Matriarch's pressure, Niamh's gift (a charm — "if the temple asks you to give something, don't"), forbidden archive glimpses. Journey (Ch 7–9): grief-plague lands, a tithe-shrine where sorrow is ritually "sealed," the swallowed kingdom's gray silence, the final door carved with the corrupted vow — and the erased original words beneath it. **First Act Turn (Ch 10):** In the heart of the Devourer, no monster — a man weeping in ash and light, who speaks her language, who knows her name. She draws her blade and does not strike. *"Please. Either end me, or stay. I can't bear being alone again."*
+
+**Act I ending state:** Elowen has crossed into the world behind the world. Her belief system is intact but cracking. She is holding a knife over a person, not a monster.
+
+---
+
+### ACT II — THE MONSTER (Ch 11–30) · *"The longer she stayed, the more the heresy felt like home."*
+
+**Sequence 3 (Ch 11–14): Learning to Listen.** Stalemate → first lessons. Maren teaches her to *hear* grief (rivers, forests, swallowed villages) — spiritual intimacy before any touch (**R2**). He reveals the true vow (Ch 13): *"Let one bear all sorrow so the many may live"* — the temple corrupted "bear" into "devour." He is starving; his forgetting is visible (he loses the middle of his own name). ◆ Respite (Ch 14): quiet, boundary-crossing conversation; he confesses he has listened to her her whole life — she was the only voice that wasn't grief.
+
+**Sequence 4 (Ch 15–18): The Sisterhood Arrives.** Sable and the temple squad arrive to "support" — actually to enforce. Sable's failed attempt to kill him (she breaks hearing a swallowed child's grief). Remnant survivors appear with evidence: tithe ledgers, burned records — the temple *delivered* their kingdoms. The ledger's last page: Elowen's name, the next "key" in a three-hundred-year cycle (Ch 17). Almost-moment #1 (Ch 15): she almost touches his shadow. Sable reveals she carries kill-orders if Elowen hesitates (Ch 18).
+
+**Sequence 5 (Ch 19–23): The Midpoint Double-Reversal.** **Midpoint (Ch 19):** Chaos — Sable moves to execute the order; Elowen shields him; her hand touches his skin. He crumples: feeling floods back, tenderness *hurts* — the curse made literal (**R3**). She holds him anyway; his pain pours into her; she tastes the swallowed grief. Reversal A: he is real, he suffers, tenderness wounds him. Reversal B (from Ch 17's ledger + Ch 19's flood): the temple is the true monster and she is its instrument, not its beloved. Distant bells: the temple's army is coming — to "complete the rite," not to save her. ◆ Respite/Strategy (Ch 22): defenses + his past assembling (he was the first chosen one); almost-moment #2 (Ch 22: "If I were a man again, would you still listen?" — she doesn't answer).
+
+**Sequence 6 (Ch 24–28): All Is Lost.** Siege begins (Ch 23); a dying officer's words (Ch 24) reveal the cycle: he starves → temple feeds him a kingdom → he eats → memory erodes → he forgets himself → repeat. He refuses to tell her the vow's final line (Ch 25). Niamh's truth (Ch 26): she was the thirteenth chosen; her entire identity is a lie; he knew she was chosen and said nothing. Dark Night (Ch 27–28): she nearly runs, nearly lets Sable end him; he finds her and sits with her — *"I've thought about ending too. Every day. But you were never my reason to end."* She asks his name; he tells her: **Maren** (Ch 27). **R4 (Ch 28):** Almost-touch completed differently — she reaches, stops; *he* takes her hand and bears the pain: "It's worth it." They both cry. ◆ Respite (Ch 28 second half).
+
+**Sequence 7 (Ch 29–30): The Choice.** She chooses: stay, fight, undo the curse, become the new bearer — even at cost of her life/self. He tells her the vow's final line (Ch 30): *"And the one who bears shall not bear alone."* The curse was designed for sharing from the beginning. Undoing it means someone *chooses to share the weight* — not replace it. He refuses (it may kill her; he won't let her suffer). She overrides him: blade back in sheath, *"I choose you."* **Second Act Turn:** temple army at the gate; Elowen is no longer the Saint and no longer a weapon.
+
+**Act II ending state:** Elowen has lost her old self and found a new one. The world's villain is named (the temple, the Matriarch); the mechanism of salvation is named (the shared vow). Everything now depends on the rite — and on surviving the temple's last strike.
+
+---
+
+### ACT III — THE HEART (Ch 31–40) · *"The monster was never him."*
+
+**Sequence 8 (Ch 31–40): The Shared Weight.** Final siege (Ch 31) — Remnant + Sable's defectors + Maren's limited power vs. the temple army; the Matriarch arrives in person (Ch 32): she reveals the temple's origin — the founders, overwhelmed by grief, chose "one swallows" because "all share" was too hard. She offers Elowen the old bargain one last time. Elowen refuses. **The Transfer (Ch 33–34) — R5:** Maren resists; Elowen overrides with her sanctity; his grief pours into her — his memories, hunger, shame, loneliness. She finally understands him completely. His curse breaks: the Devourer's form sloughs away; a man remains. The cost of *her* bearing: she will never be numb again — she will feel everything, always. She can still be touched, still be loved, but she can never stop feeling. ◆ Respite (Ch 35): the army halts — the "Devourer" is gone — but the Matriarch rebrands Elowen as the new monster and orders the purge to continue. Sable publicly rebels.
+
+**Climax, external (Ch 36–37):** The Matriarch weaponizes the "purge-fire" to burn away Elowen's burden — which means burning away the world's grief, i.e., everyone's emotional memory. Maren (now mortal, killable) stands in front of her; she refuses to let him die for her. She speaks the full true vow aloud, to everyone: *"Let one bear all sorrow so the many may live. And the one who bears shall not bear alone."* The lie shatters. Remnant + people turn. The Matriarch's last gambit fails; she falls consumed by her own fire, cursing: *"You'll become the next me."* Elowen's answer: she *shares* the grief out — every person takes a small piece, so the fire has no single target. The world begins to carry itself again.
+
+**Climax, internal (Ch 38) — R6:** After the battle. Maren approaches her — mortal, warm, breakable. The first kiss is a goodbye-gift: he believed undoing the curse meant his death; she uses the kiss to refuse his ending. He offers her his mortality — "I choose to feel. Because feeling has you in it." She accepts — not as a Saint, as herself. After the kiss she looks at her hands: she still feels everything — his mouth, the world's grief — and she is not numb, and she is not dead. She is free.
+
+**Resolution (Ch 39):** The temple falls as an institution. The Remnant founds a new community — not a temple, but a *shared* body: people take turns *listening* to grief, bearing it together. Sable leads; Niamh arrives with the last records. Elowen and Maren learn ordinary life: he tastes sweetness for the first time, laughs, lives without hunger. He asks if she regrets it. *"No. I'm just still learning not to call it a curse."*
+
+**Final Image (Ch 40):** Mirror of Ch 1 — Elowen in a garden, but this garden belongs to the new community; children run. She hears the world's grief — and she is no longer afraid of it. Maren sits beside her — mortal, aging, feeling. A child falls and cries; Elowen does not take the grief away. She kneels and cries with the child. The child stops. Maren smiles. The last line: together, they bear — never alone. HEA.
+
+---
+
+## C. Scene Card List (40 cards)
+
+Legend: POV = Elowen unless noted · ◆ = respite beat · A/E/W = which of the "two of three" (Advance plot / deepen rElationship / disclose World) each scene hits
+
+| # | Location | Goal | Conflict | Stakes | Emotional Arc | Hook |
+|---|---|---|---|---|---|---|
+| **1** | Temple garden, dawn | Establish Elowen's perfection + secret gift | She hears grief others can't; must hide it | Her identity as Saint | Serene → secretly haunted | Grief-voices surge: *"He is starving."* |
+| **2** | Archive, afternoon | Theme stated (Niamh) | Niamh almost reveals too much; hides a page | Knowledge that could shatter her faith | Curious → unsettled | The page has a scratched-out word. |
+| **3** | Temple, evening | Rehearse the "ending prayer" (corrupted vow) | The vow sounds *wrong* to her | Her obedience | Dutiful → doubtful | Matriarch hesitates mid-sentence. |
+| **4** | Great Hall, morning (Catalyst) | Mission proclaimed: slay the Devourer | A Remnant beggar mouths "Don't" | The mission itself | Elevated → shaken | Night voice, in her forbidden language: *"Don't come."* |
+| **5** | Temple, night (Debate I) | Question the mission | Matriarch weaponizes love/honor | Her free will | Torn → pressured | Niamh's gift: a charm, "don't give what they ask." |
+| **6** | Archive, pre-dawn (Debate II) | Steal a look at forbidden scrolls | Caught by Matriarch; warned | Her innocence | Curious → guilty | Ledger of tithes: three-hundred-year cycle. |
+| **7** | Road, 1st kingdom | See the grief-plague's victims | A girl's grief was *not* taken; why? | Her worldview | Determined → horrified | Tithe-shrine bells at night. |
+| **8** | Tithe-shrine | Witness a sorrow-offering rite | Sorrow flows *down*, not purified | Trust in the temple | Horrified → suspicious | Niamh's charm warms toward the crypt. |
+| **9** | Swallowed kingdom | Cross the Devourer's territory | Sable wants to turn back; memory-voices roar | Her courage | Uneasy → steeled | Door carved with the vow — original words scratched out. |
+| **10** | The Heart (First Act Turn, R1) | Find and slay the monster | It's a weeping man who knows her name | Her identity as Saint | Armed → disarmed | *"Either end me, or stay."* |
+| **11** | The Heart | Survive the stalemate | She can't kill him; can't leave | Her purpose | Disarmed → confused | *"I remember who I was. I remember the vow."* |
+| **12** | The Heart (R2a) | Learn to hear grief with him | Hearing = understanding = doubt | Her faith | Confused → awed | He forgets the middle of his own name. |
+| **13** | The Heart (R2b) | Hear the true vow | "Bear" vs "devour" — the corruption | Everything | Awed → shattered | He sleeps; she holds the blade — and lowers it. |
+| **14** ◆ | The Heart, quiet evening | Talk without blades between them | He's listened to her whole life | Her heart | Shattered → tender | Sable's horn at the territory's edge. |
+| **15** | Territory edge | Face the arriving sisterhood | Sable's orders; almost-moment #1 | Her freedom | Tender → trapped | Sable's "good news": the victory feast is planned. |
+| **16** | The Heart, night | Sable's failed killing attempt | She breaks hearing a child's grief | His life | Trapped → protective | A soldier collapses — plague enters camp. |
+| **17** | Remnant camp, night | Meet the Remnant; see the ledgers | Evidence: the temple *delivered* kingdoms | The truth | Protective → rocked | Last ledger page: her name, next in the cycle. |
+| **18** | The Heart | Decide: not end him, not return | Sable reveals the kill-order | Her life | Rocked → defiant | Distant war-horns: the temple army comes. |
+| **19** | The Heart (Midpoint, R3) | Shield him from Sable's blade | Touch = his agony + her grief-flood | Both their lives | Defiant → devastated | *Double reversal:* he's real; the temple is the monster; she's the instrument. |
+| **20** | The Heart, aftermath | Breathe; face what she learned | He won't accept "free you" (undo = end?) | Her hope | Devastated → stubborn | She opens the Remnant's forbidden books — looking for *undo*, not *end*. |
+| **21** | Territory edge | Defend against the temple vanguard | Kill-orders read aloud: "Saint corrupted — purge" | Their survival | Stubborn → fierce | Matriarch's decree named: *purge*. |
+| **22** ◆ | The Heart, firelight | Strategy + his past assembling | Almost-moment #2: "If I were a man, would you still listen?" | Her answer | Fierce → aching | She doesn't answer — the question frightens her. |
+| **23** | Territory, siege I | Repel the assault | Maren "sends" grief as a weapon — first blood by his hand | His soul | Aching → ruthless | Dying officer: "You're not saving him. You're completing his hunger." |
+| **24** | Prisoner tent | Uncover the cycle's truth | It's voluntary; he starves on a schedule | The whole lie | Ruthless → sickened | "No. You don't know the vow's last line." |
+| **25** | The Heart | Demand the last line | He refuses; their first real fight | Trust | Sickened → furious | Sable finds Niamh's note inside the charm. |
+| **26** | The Heart | Read Niamh's truth | She was the thirteenth; identity = lie; he knew | Everything | Furious → gutted | "Why didn't you tell me you knew I was chosen?" Silence. |
+| **27** | Territory edge, night (Dark Night I) | Almost run; almost let Sable end him | He sits beside her, doesn't persuade | Her soul | Gutted → held | She asks his name. He tells her: Maren. |
+| **28** ◆ | The Heart (Dark Night II, R4) | Reach for him; stop | He takes her hand and bears the pain: "It's worth it." | Her courage | Held → broken-open | Purge-fire lights on the horizon: the final assault. |
+| **29** | The Heart | Choose the impossible path | Become the new bearer — at cost of herself | Her life | Broken-open → resolute | "I need the last line. To save you, not kill you." |
+| **30** | The Heart (Second Act Turn) | Hear the true ending: *"the one who bears shall not bear alone"* | He refuses to let her share the weight | The rite | Resolute → decided | Blade back in sheath: *"I choose you."* |
+| **31** | Territory, siege II | Hold the gate | Matriarch arrives in person; no negotiation | Everything | Decided → grim | Matriarch: "You'll die before you become what I am." |
+| **32** | Battlefield, before the Matriarch | Refuse the old bargain one last time | She reveals the temple's origin — "one swallows" was the easy lie | Her conviction | Grim → defiant | Matriarch's order: burn the bearer — and her grief. |
+| **33** | The Heart, the rite (R5a) | Begin the transfer | He fights it; she overrides with sanctity | Both their lives | Defiant → intimate | His memories flood her: hunger, shame, loneliness. |
+| **34** | The Heart, rite complete (R5b) | End the transfer | His curse breaks; her cost: she will never be numb again | Her future | Intimate → broken-open | She can still feel his hand in hers. She always will. |
+| **35** ◆ | Territory, lull | Breathe; bury the fallen | Matriarch rebrands her as the new monster; Sable rebels publicly | The alliance | Broken-open → bonded | The purge-fire is aimed at her — at all the world's grief. |
+| **36** | The Heart, the stand | Speak the full vow aloud | The lie shatters; people turn; Matriarch's gambit fails | The world | Bonded → luminous | Matriarch falls into her own fire: "You'll become the next me." |
+| **37** | The battlefield, after-fire | Share the grief out, piece by piece | Each person takes a small weight; the fire has no target | The world's memory | Luminous → emptied-and-filled | The world begins to carry itself. |
+| **38** | The Heart, night (Climax Internal, R6) | First kiss — his goodbye-gift | He believed the rite meant his death; she refuses his ending | Their love | Emptied-and-filled → free | After the kiss: she still feels everything. She is not numb. She is free. |
+| **39** | New community, days later | Learn ordinary life | Sweetness, laughter, no hunger | Their future | Free → warm | "Do you regret it?" — "No. I'm learning not to call it a curse." |
+| **40** | Garden, the new dawn (Final Image) | Mirror Ch 1 — but a garden of the shared | A child cries; Elowen doesn't take the grief — she shares it | The theme | Warm → whole | Together, they bear — never alone. |
+
+---
+
+## D. Foreshadowing & Payoff Ledger
+
+| # | Foreshadow (plant) | Payoff (reap) |
+|---|---|---|
+| 1 | Corrupted vow rehearsed in Ch 3; carved on the door Ch 9 (original words scratched out) | True vow spoken Ch 13; **full true vow aloud Ch 36** |
+| 2 | Elowen's childhood grief-voices (Ch 1) | Maren speaks her forbidden language (Ch 10); he has listened her whole life (Ch 14) |
+| 3 | Tithe-shrine sorrow flows downward (Ch 8) | Ledger of delivered kingdoms (Ch 17); the voluntary hunger cycle (Ch 24) |
+| 4 | Niamh's charm + hidden page (Ch 2, 5) | Niamh's note inside the charm (Ch 25); Niamh's truth-letter (Ch 26); Niamh returns with records (Ch 39) |
+| 5 | Temple frames her sanctity as a blade (Ch 1, 4) | She is the key *and* the offering — the thirteenth (Ch 17, 19, 26) |
+| 6 | Matriarch's hesitation at the rite (Ch 3) | Matriarch's origin story: "one swallows" was the easy lie (Ch 32) |
+| 7 | Maren's visible memory loss (Ch 12, 13) | His name recovered (Ch 27); his past as the first chosen one (Ch 22, 27) |
+| 8 | Girl with the dead dog — grief *not* taken (Ch 7) | Final Image: Elowen shares grief instead of taking it (Ch 40) — theme bookend |
+| 9 | Remnant beggar mouths "Don't" (Ch 4) | Remnant appear with evidence (Ch 17); they become her people (Ch 31–39) |
+| 10 | Maren: "undo = end" fear (Ch 20, 25) | The rite is *share*, not *replace* (Ch 30); the kiss refuses his ending (Ch 38) |
+| 11 | Matriarch: "You'll become the next me" (Ch 37) | Final Image answer: she bears *with* others; she is never alone (Ch 40) |
+
+## E. Quality Self-Check (Story Architect checklist)
+
+- ✅ Every chapter has a "why it exists" (see scene cards — each hits ≥2 of A/E/W).
+- ✅ Protagonist arc complete: weapon of faith → woman who chooses to carry (opening garden Ch 1 → closing garden Ch 40).
+- ✅ All foreshadowing planted is paid off (ledger above); nothing left dangling for a sequel unless noted (Matriarch's curse is *answered*, not sequel-baited).
+- ✅ Romance and main plot are causally intertwined: every touch is a plot crisis (Ch 19, 28, 33); every plot crisis escalates intimacy (Ch 23 → 24 → 28 → 33). The investigation of the temple IS the courtship — mirrors the C&R Designer's "mutual exposure" engine.
+- ✅ Pacing: no three consecutive monotone chapters (Action: 7, 15–16, 21, 23, 31–32, 36–37 / ◆ respite: 14, 22, 28b, 35; emotion peak at 19, 28, 33, 38).
+- ✅ Rhythm ratio Action 5 : Emotion 3 : Worldbuilding 2 (worldbuilding is drip-fed via scenes 2, 6, 8, 9, 12–13, 17, 24, 26 — never an info-dump).
+- ✅ HEA per project positioning: both leads alive, together, free; the grief is shared, not destroyed.
+
+---
+
+*Relay: Story Architect (this doc) → Chapter Planner (chapter-by-chapter outline) → draft → Continuity Editor → Native Line Editor.*

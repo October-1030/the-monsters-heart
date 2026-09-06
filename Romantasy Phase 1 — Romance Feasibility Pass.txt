@@ -1,0 +1,54 @@
+# Romantasy Phase 1 — Romance Feasibility Pass
+**Role:** Character & Romance Designer | **Date:** 2026-08-12 | **Status:** Ready for worldbuilding feasibility pass
+
+Based on Story Architect's 3 core concepts (see story_concepts.md). Each entry: slow-burn pacing, CP tension (want vs need), intimate-scene potential, romance-arc risks & fixes.
+
+---
+
+## 1. THE BRIDE OF SHADOWS
+
+**Slow-burn (6 beats):** (1) Wedding-night assassination — first contact is a knife; she wounds him and collapses from the shared pain. (2) Forced cohabitation: he tests her veil-touched immunity; power-play reads as foreplay. (3) Midpoint warmth: he takes a wound meant for her; she feels it in her own ribs and knows it was his. (4) First kiss as trust-negotiation — she demands a curse broken; the kiss is the seal, not the confession. (5) Almost-intimacy retreat: she nearly kills him, nearly kisses him — for her these are the same gesture. (6) First true intimacy ~60% in: wound-dressing where shared pain makes care the most dangerous, tender act on the page.
+
+**CP tension:** Her want = kill him, feed her kingdom. His want = end centuries of numb immortality. Their needs mirror: she must learn she deserves to be *chosen*, not spent; he must learn to feel without dying. Every hostile impulse costs her own body — the pain-bond makes "hurt him" and "hold him" structurally identical, so aggression and desire can never be separated.
+
+**Steam:** Medium-high. Scene types: wound-tending, shared-bath healing, throne-room power intimacy where consent is the actual negotiation.
+
+**Risks & fixes:** (a) Pain-bond can read as gimmick → rule: only *intentional* harm is shared, so every shared wound is a choice, never an accident. (b) Costly HEA can feel punitive → frame her surrender of mortality as agency and her need fulfilled, not a penalty for loving him.
+
+---
+
+## 2. THE SUN'S WIDOW
+
+**Slow-burn (6 beats):** (1) First kiss is public and false — she accepts his proposal under siege. (2) Honeymoon-by-script: she performs the adoring bride; he corrects her details (observation = attraction). (3) Her son calls him "bad uncle" — first real emotion ruptures the script. (4) Almost-kiss: she holds a knife to his throat on a clue; the breath between them is the first honest pause of the book. (5) First true kiss — not when a clue breaks, but when she can no longer call it strategy. (6) First intimacy at the truth-drop: performance and reality blur past recovery.
+
+**CP tension:** Her want = survive, save her son, clear her name. His want = avenge the monarch his own king poisoned. Their needs: she must stop performing and let herself be seen; he must stop believing he is only the Butcher. Every mask peeled from the conspiracy is a mask peeled from a heart — mutual detective work is mutual exposure, so the investigation *is* the courtship.
+
+**Steam:** Medium (tension-driven). Scene types: staged public affection for spies (banquet, bedside charade), private cold-climate confrontations, snowfield aftermath where the lies finally stop.
+
+**Risks & fixes:** (a) Fake-marriage is a crowded lane → the suspense question is "who falls first," gated by mystery pacing; never let either admit it before the plot demands. (b) The son must not become a prop → his unfiltered honesty is the mechanism that shatters both performances, and his safety is the moral clock that forces their choice.
+
+---
+
+## 3. THE MONSTER'S HEART
+
+**Slow-burn (6 beats):** (1) First contact is a voice — she finds a man weeping in the Devourer's heart. (2) He teaches her to hear the world's grief; intellectual/spiritual closeness deepens before any touch. (3) First touch is a crisis: her hand on his skin makes him crumple — tenderness literally hurts him. (4) Almost-touch: she reaches, stops, both of them cry. (5) He begins transferring his grief-eating into her — the most intimate act available: giving her his burden. (6) First kiss is a goodbye-gift he expects to end him; she uses it to refuse his ending.
+
+**CP tension:** Mirror-inverted wants and needs. Her want = slay him and earn her holy identity; his want = oblivion. Her need = choose herself over doctrine; his need = allow feeling again, joy and pain together. She must learn not to kill; he must learn not to die. Because every tender moment is heresy, the romance is structurally transgressive — warmth is the rebellion.
+
+**Steam:** Low-medium, emotional intimacy. Scene types: wordless shared listening, fingertip contact, an embrace priced in pain.
+
+**Risks & fixes:** (a) Gentle-monster can flatten into sermon → give him genuine rage, hunger, and shame — he is a survivor of his curse, not a saint. (b) HEA "becomes mortal" can read as demotion → frame mortality as his first freedom to feel fully; the ending is his need fulfilled, not his power stripped.
+
+---
+
+## Cross-Concept Verdict (romance lens)
+
+- **Bride of Shadows:** strongest commercial hook — the pain-bond makes every scene dual-purpose (action + romance). Highest steam ceiling. Needs the most discipline to keep the bond feeling earned.
+- **Sun's Widow:** most reliable slow-burn engine — mystery pacing naturally gates intimacy. Widest appeal (political + family + romance). Lower risk, slightly lower novelty.
+- **Monster's Heart:** highest emotional ceiling and most distinctive voice; best for a reader who cries at the end. Lowest steam by design — must sell on tenderness, not heat.
+
+All three pass the slow-burn check: each has ≥3 almost-moments before the first real kiss, and every first intimacy is driven by accumulated emotion, not page count.
+
+---
+
+*Relay: Story Architect (done) → Character & Romance Designer (done) → Worldbuilding Designer (next) → Lisa selects final direction.*
